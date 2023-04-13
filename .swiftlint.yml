@@ -1,0 +1,8 @@
+excluded:
+    - Pods
+    - weather-api-app/AppDelegate.swift
+    - weather-api-app/SceneDelegate.swift
+    - Libraries
+disabled_rules:
+    - line_length
+    - trailing_whitespace
